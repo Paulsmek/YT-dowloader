@@ -14,7 +14,7 @@ If you don't provide a link as a command-line argument, the script will enter an
 
 Steps:
 
--Select Download Type:
+Select Download Type:
 
 Video: Enter 0
 Music (audio only): Enter 1
@@ -29,6 +29,7 @@ Sample Input During Execution:
 
 Download video(0), music(1), or playlist(2)?: 1
 Enter the link here: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 Enter destination, or leave empty for the current one: /path/to/destination
 
 3. Playlist Download
